@@ -36,6 +36,7 @@ bash
 Copy code
 python face_and_gesture_tracking.py
 Usage:
+
 Show your face to the camera; the system will try to center it using the servos.
 Change the mode by showing a specific number of fingers:
 1 Finger: Activate Preset 1.
@@ -48,6 +49,7 @@ Camera Access: Ensure no other application is using the camera.
 Performance Issues: Adjust the detection confidence thresholds if the system is either too sensitive or not sensitive enough.
 Contributing
 Contributions to the project are welcome! Please fork the repository and submit a pull request with your enhancements.
+
 Kartik- currently has written 100000000000% of the code and made the project
 Devesh- data gathering about the project
 Tejas- Design and part creation (emotional support as well)
